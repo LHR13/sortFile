@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="hadoop-common-3.1.3">
+    <CLASSES>
+      <root url="jar:///usr/local/hadoop/share/hadoop/common/hadoop-common-3.1.3.jar!/" />
+      <root url="jar:///usr/local/hadoop/share/hadoop/common/hadoop-nfs-3.1.3.jar!/" />
+      <root url="file:///usr/local/hadoop/share/hadoop/common" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///usr/local/hadoop/share/hadoop/common/jdiff" />
+    </SOURCES>
+    <jarDirectory url="file:///usr/local/hadoop/share/hadoop/common" recursive="false" />
+  </library>
+</component>
